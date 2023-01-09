@@ -2,7 +2,7 @@
   "compatible_versions": {
     "releases": [
       "1.18.2",
-      "1.19.2"
+      "1.19.3"
     ],
     "snapshots": [
     ]
@@ -30,6 +30,10 @@
         "platform": "modrinth"
       },
       {
+        "slug": "sodium",
+        "platform": "modrinth"
+      },
+      {
         "slug": "mcxr-core",
         "platform": "github"
       },
@@ -40,9 +44,21 @@
       {
         "slug": "title-worlds",
         "platform": "github"
+      },
+      {
+        "slug": "Smooth-Boot-(Fabric)",
+        "platform": "modrinth"
+      },
+      {
+        "slug": "EntityCulling",
+        "platform": "modrinth"
+      },
+      {
+        "slug": "Starlight-(Fabric)",
+        "platform": "modrinth"
       }
     ],
-    "1.19.2": [
+    "1.19.3": [
       {
         "slug": "fabric-api",
         "platform": "modrinth"
@@ -60,6 +76,10 @@
         "platform": "modrinth"
       },
       {
+        "slug": "sodium",
+        "platform": "modrinth"
+      },
+      {
         "slug": "mcxr-core",
         "platform": "github"
       },
@@ -70,6 +90,18 @@
       {
         "slug": "title-worlds",
         "platform": "github"
+      },
+      {
+        "slug": "Smooth-Boot-(Fabric)",
+        "platform": "modrinth"
+      },
+      {
+        "slug": "EntityCulling",
+        "platform": "modrinth"
+      },
+      {
+        "slug": "Starlight-(Fabric)",
+        "platform": "modrinth"
       }
     ]
   }
